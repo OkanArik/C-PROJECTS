@@ -1,7 +1,7 @@
 # C-PROJECTS
 C# ile yaptığım iki projemin bulunduğu repom.
 
-Burada telefon rehberi programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:<br>
+- Burada telefon rehberi programımı çalıştırıp işlemlerin ilerleyişini görsel şekilde sizinle paylaşacağım:<br>
 <br>
 ![t1](https://user-images.githubusercontent.com/89224500/154528543-72e4c2d8-15b3-4c6d-9acc-3bf0a6bb7318.png)
 <br><br>
