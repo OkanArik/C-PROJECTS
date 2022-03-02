@@ -1,4 +1,4 @@
-enum BUYUKLUK//Enum , enumeration(numaralandırma) gelmektedir.
+enum BUYUKLUK//Enum , enumeration(numaralandırma)'dan gelmektedir.
     {
         XS=1,
         S,
